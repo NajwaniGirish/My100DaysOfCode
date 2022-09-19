@@ -15,7 +15,7 @@
 ---
 
 ### Day 2
-- Solved some mathmatics related problems from GeeksForGeeks:
+- Solved some mathematics related problems from GeeksForGeeks:
   - Trailing zeros of factorial
   - Finding GCD/HCF of two numbers
   - Finding LCM of two numbers
