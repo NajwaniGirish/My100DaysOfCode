@@ -1,21 +1,25 @@
 # My100DaysOfCode
 
 # Profiles
-
 ---
 
 # 100DaysOfCode Daily Logs
-
 ---
 
-## Day 1
-
+### Day 1
 - Solved some recursion problems from GeeksForGeeks:
   - Tower of Hanoi
   - Josephus Problem
   - Subset Sum Problem
   - Printing Problem
+---
 
+### Day 2
+- Solved some mathmatics related problems from GeeksForGeeks:
+  - Trailing zeros of factorial
+  - Finding GCD/HCF of two numbers
+  - Finding LCM of two numbers
+  - Prime numbers
 ---
 
 <!--
