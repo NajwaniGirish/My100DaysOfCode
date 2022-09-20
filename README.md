@@ -22,6 +22,12 @@
   - Prime numbers
 ---
 
+### Day 3
+- Solved some more mathematics related problems from GeeksForGeeks:
+  - Prime factor of a number
+  - All divisor of a number
+---
+
 <!--
 # Some syntax for later use
 
